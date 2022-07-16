@@ -1,8 +1,8 @@
 ### Hi there 👋 I am a student in ATU- completing the Higher Diploma in Software Development programme. Some of the projects for the course are contained in the following repositories.
 
-- Computational-Thinking-With-Algorithms-Project-2020 Benchmarking sorting algorithms in Python. Reviewing various comparison and non-comparison sorting algorithms, describing how each algorithm works and considering concepts such as their time and space complexities, performance and stability.
+- Computational-Thinking-With-Algorithms-Project-2022 Benchmarking sorting algorithms in Java. Reviewing various comparison and non-comparison sorting algorithms, describing how each algorithm works and considering concepts such as their time and space complexities, performance and stability.
 
-- Web-Applications-Development-Project-2019 A simple website using HTML5, CSS, JavaScript and the JavaScript library D3 for some basic data visualisations. Linked pages and user login.
+- Web-Applications-Development-Project-2022 A simple business website using HTML5, CSS, JavaScript and the JavaScript library D3 for some basic data visualisations. Linked pages and user login.
 
 
 
