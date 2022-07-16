@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am a student in ATU- completing the Higher Diploma in Software Development programme. Some of the projects for the course are contained in the following repositories.
 
 <!--
 **EmmetMcDonagh/EmmetMcDonagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
