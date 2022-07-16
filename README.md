@@ -4,6 +4,8 @@
 
 - Web-Applications-Development-Project-2022 A simple business website using HTML5, CSS, JavaScript and the JavaScript library D3 for some basic data visualisations. Linked pages and user login.
 
+- Database Design & Development 2022: The aim of this project was to design and construct a database that could be implemented in a commercial database management system. The given narrative was used to create a relevant database that could be used to facilitate the smooth workings of a dental practise.
+
 
 
 <!--
