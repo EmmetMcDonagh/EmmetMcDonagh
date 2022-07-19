@@ -6,6 +6,8 @@
 
 - Database Design & Development 2022: The aim of this project was to design and construct a database that could be implemented in a commercial database management system. The given narrative was used to create a relevant database that could be used to facilitate the smooth workings of a dental practise.
 
+- Network-Technologies-Project-2022 Design and implement a network-based chat application in Java, using the Java Socket API. The program is used to transfer data from Client to Server. Furthermore, it includes additional functionality for implementing multi user chat server using Java TCP Socket programming. The project contains the client program – ChatClient – that implements the client side functionality and The Server program – ChatServer – that facilitates the server-side functionality
+
 
 
 <!--
