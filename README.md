@@ -2,6 +2,8 @@
 
 - Object-Orientated Software Development-2021 Filtering-an-Image-with-a-Convolution-Kernel.
 
+- Advanced Object Orientated Software Development. Develop a Java application that can parse a file or a URL to generate a PNG (portable network graphics) file with a word-cloud displaying the most prominent words in decreasing font size, style and colour. 
+
 - Computational-Thinking-With-Algorithms-Project-2022 Benchmarking sorting algorithms in Java. Reviewing various comparison and non-comparison sorting algorithms, describing how each algorithm works and considering concepts such as their time and space complexities, performance and stability.
 
 - Web-Applications-Development-Project-2022 A simple business website using HTML5, CSS, JavaScript and the JavaScript library D3 for some basic data visualisations. Linked pages and user login.
