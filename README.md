@@ -1,6 +1,6 @@
 ### Hi there 👋 I am a student in ATU- completing the Higher Diploma in Software Development programme. Some of the projects for the course are contained in the following repositories.
 
-- Object-Orientated Software Development-2021 Filtering-an-Image-with-a-Convolution-Kernel.
+- Object-Orientated Software Development-2021 Filtering-an-Image-with-a-Convolution-Kernel. The Image Filtering System V0.1 is a program that provides many image editing features for raster images. It uses a matrix , 2D array of numbers that slides across the pixels and makes computations changing the value of each pixel. The program allows users to select an image an apply different filters. It displays a four option menu, where users can choose an image, see the different filters available and select the desired filter and the last option allows the user to quit the program.
 
 - Advanced Object Orientated Software Development-2022. Develop a Java application that can parse a file or a URL to generate a PNG (portable network graphics) file with a word-cloud displaying the most prominent words in decreasing font size, style and colour. 
 
